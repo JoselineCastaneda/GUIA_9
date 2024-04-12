@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1712700601 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\oswindows.cpp
+	"OSWindows.h"
+
+1712608228 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712606694 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\iapariencia.h
+
+1712606680 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712700517 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\oslinux.cpp
+	"OSLinux.h"
+
+1712699451 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\oslinux.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iAparienciaa.h"
+	"OSWindows.h"
+
+1712607155 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\iaparienciaa.cpp
+	"iAparienciaa.h"
+
+1712699817 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\iaparienciaa.h
+
+1712607955 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\iaparienciaaa.cpp
+	"iAparienciaaa.h"
+
+1712607956 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\iaparienciaaa.h
+
+1712700517 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\src\ososx.cpp
+	"OSOSx.h"
+
+1712699451 c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\include\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iAparienciaaa.h"
+	"OSWindows.h"
+	"OSOSx.h"
+
+1712701003 source:c:\users\usuario\documents\code blocks\lab de progra\semana10-op2\wlos\main.cpp
+	<iostream>
+	"OSWindows.h"
+	"OSLINUX.h"
+	"OSOSx.h"
+
